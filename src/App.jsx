@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Si tengo avances profe, no me ponga 0</div>
+    <h1>Si tengo avances profe, no me ponga 0 porfa</h1>
   )
 }
 
