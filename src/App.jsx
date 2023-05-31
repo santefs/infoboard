@@ -1,9 +1,12 @@
-import React from 'react'
+import Dashboard from "./pages/Dashboard";
+import Theme from "./theme/Theme";
 
 const App = () => {
   return (
-    <h1>Si tengo avances profe, no me ponga 0 porfa</h1>
-  )
-}
+    <Theme>
+      <Dashboard />
+    </Theme>
+  );
+};
 
-export default App
+export default App;
