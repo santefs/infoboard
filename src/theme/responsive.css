@@ -42,3 +42,13 @@
     width: 100%;
   }
 }
+
+/* ======= LEFT CONTENT ====== */
+
+.LeftImage {
+  /* Se recomienda tener la imagen en un formato cuadrado para una mejor visualización */
+  width: 100%;
+  object-fit: contain;
+  max-width: 90%;
+  max-height: 90%;
+}

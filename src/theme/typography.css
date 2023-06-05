@@ -1,3 +1,13 @@
-h1 {
-  font-size: 32px;
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+*{
+  font-family: 'Inter', sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h4 {
+  font-size: 15px;
 }

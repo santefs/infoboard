@@ -1,6 +1,6 @@
 /* ======= PALETTE ====== */
 :root {
-    /*-- Color palette --*/
+  /*-- Color palette --*/
   --color-grey-0: rgb(0, 0, 0);
   --color-grey-1: rgb(20, 20, 20);
   --color-grey-2: rgb(30, 30, 30);
@@ -50,6 +50,7 @@
 }
 
 /*-- Background color --*/
+
 .background-color-grey-0 {
   background-color: var(--color-grey-0);
 }
@@ -82,4 +83,14 @@
 }
 .background-color-grey-10 {
   background-color: var(--color-grey-10);
+}
+
+/*-- Box Shadow --*/
+
+.box-shadow-1 {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.box-shadow-2 {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
